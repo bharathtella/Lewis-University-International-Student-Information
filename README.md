@@ -9,7 +9,7 @@ Use links provided to access additional resources such as scripts, code, and doc
 
 Contributors:
 This project was brought to fruition by 
-	Bharath Kumar Tella
+	Bharath Kumar Tella;
 	Vidhya Sagar Janga   
 
 Feedback and Contributions:
